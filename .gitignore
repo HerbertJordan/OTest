@@ -1,3 +1,4 @@
+*~
 *.annot
 *.cmo
 *.cma
@@ -7,3 +8,10 @@
 *.cmx
 *.cmxs
 *.cmxa
+
+*.opt
+*.run
+
+build
+.omakedb*
+*.omc

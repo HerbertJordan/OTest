@@ -1,0 +1,9 @@
+# Set up the standard configuration
+OCMALFLAGS = -Wa
+
+# use bytecode and native compiler
+NATIV_ENABLED = true
+BYTE_ENABLED = true
+
+# include the source and test directory
+.SUBDIRS: src test

@@ -1,0 +1,21 @@
+
+
+======= Future Improvements ========
+
+ = Features =
+
+ * add command line argument handling
+    * list test cases
+    * filter test cases
+ * add support for location tracking based OCaml macros
+
+
+
+ = Build System =
+
+ * replace omake by cmake
+ * remove hard-coded dependency and paths to extLib
+
+
+
+

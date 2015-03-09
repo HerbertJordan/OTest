@@ -1,0 +1,3 @@
+Example of omake usage:
+
+http://omake.metaprl.org/manual/omake-build-examples.html#sec19
