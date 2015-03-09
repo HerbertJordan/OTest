@@ -7,8 +7,9 @@
  * add command line argument handling
     * list test cases
     * filter test cases
+    * repeat flag
  * add support for location tracking based OCaml macros
-
+ * write read-me page + install / usage instructions
 
 
  = Build System =
